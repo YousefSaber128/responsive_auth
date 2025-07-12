@@ -20,6 +20,7 @@ final class HavingAccount extends StatelessWidget {
   final VoidCallback? onTap;
   @override
   YRichText build(final BuildContext context) => YRichText(
+    softWrap: true,
     textAlign: TextAlign.center,
     TextSpan(
       style: const TextStyle(fontSize: 16),

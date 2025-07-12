@@ -1,3 +1,3 @@
-# responsive_auth
+# Responsive Auth
 
 A new Flutter project.
